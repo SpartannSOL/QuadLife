@@ -1,7 +1,9 @@
 {
   "name": "quadlife",
+  "homepage": "." 
   "version": "1.0.0",
   "description": "Official Website for QuadLife Token",
+  "private": "true",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
