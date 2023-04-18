@@ -1,0 +1,34 @@
+{
+  "name": "quadlife",
+  "version": "1.0.0",
+  "description": "Official Website for QuadLife Token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpartannSOL/QuadLife.git"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "cryptocurrencies",
+    "token",
+    "tokens",
+    "quad",
+    "life",
+    "quadlife",
+    "4life",
+    "#JustApeIt",
+    "Ape",
+    "Quadrillionare",
+    "NakNak"
+  ],
+  "author": "Spartann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpartannSOL/QuadLife/issues"
+  },
+  "homepage": "https://github.com/SpartannSOL/QuadLife#readme"
+}
