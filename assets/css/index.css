@@ -3,15 +3,16 @@
 # Entry Image
 --------------------------------------------------------------*/
 
-.enter img {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 30%;
+.enter  img{
+    width:100%;
+    height:100%;
+    background: url('../img/introvid.gif');
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position:center;
+  
 }
-
-
 
 
 
