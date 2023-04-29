@@ -70,7 +70,7 @@ Tier Reward.
 
 
 For any further enquiries contact us at the following:
-TWITTER:   @QuadlifeToken
+TWITTER:   @QuadlifeToken <br>
 TELEGRAM:  https://t.me/quadlifeportalentry
 
 PLEASE SEND ALL BOUNTY REPORTS TO THE FOLLOWING E-MAIL ADDRESS: spartann@quadlife.site
