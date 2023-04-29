@@ -14,6 +14,15 @@
   
 }
 
+.entervid  img{
+    width:100%;
+    height:auto;
+    background: url('../img/introvid.gif');
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position:center;
+
 .transvid  img{
     width:100%;
     height:100%;
